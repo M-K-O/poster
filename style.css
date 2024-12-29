@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(10, 10, 10);
+    color: white;
+    }
+h1 {
+      font-family: "Rubik Vinyl", serif;
+      font-weight: 400;
+      font-style: normal;
+      text-align: center;
+      font-size: 50px;
+    }
+.picture {
+      width:100%;
+      border: solid 5px white;
+      border-radius: 10px;
+    }
+
+.lower_text{
+    text-align: center;
+    color: white;
+    font-size: 21px;
+}
+
+.box{
+    width: 50%;
+    margin-left:25%
+}
